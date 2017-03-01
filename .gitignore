@@ -1,3 +1,6 @@
 *.html
 .DS_Store
 TwitchIRCBot/libs/
+/TwitchIRCBot/.settings/org.eclipse.jdt.core.prefs
+/TwitchIRCBot/.project
+/TwitchIRCBot/.classpath
